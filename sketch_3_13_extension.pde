@@ -1,0 +1,11 @@
+size(800, 120);
+strokeWeight(12);
+rect(60, 25, 70, 70);
+strokeJoin(ROUND);
+rect(160, 25, 70, 70);
+strokeJoin(ROUND);
+rect(260, 25, 70, 70);
+strokeJoin(ROUND);
+rect(360, 25, 70, 70);
+strokeJoin(ROUND);
+ellipse(490, 60, 70, 70);

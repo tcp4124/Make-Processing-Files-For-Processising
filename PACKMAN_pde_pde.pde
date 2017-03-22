@@ -1,0 +1,11 @@
+size(500, 500);
+background(255, 255, 255);
+fill(255,204,0);  
+strokeWeight(4);
+arc(250, 250, 80, 80, 0.6, 5.5);
+fill(0, 0, 0);   
+ellipse(255, 228, 10, 10);
+strokeWeight(4);
+line(250, 250, 280, 275); 
+strokeWeight(4);
+line(250, 250, 280, 222); 
